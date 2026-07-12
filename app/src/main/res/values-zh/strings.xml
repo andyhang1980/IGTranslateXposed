@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IG 翻译 (Xposed)</string>
+    <string name="enable">启用翻译</string>
+    <string name="provider">服务商</string>
+    <string name="provider_deepseek">DeepSeek</string>
+    <string name="provider_siliconflow">硅基流动 (SiliconFlow)</string>
+    <string name="provider_custom">自定义</string>
+    <string name="base_url">API 基础地址</string>
+    <string name="api_key">API 密钥</string>
+    <string name="model">模型名称</string>
+    <string name="target_lang">目标语言（如 zh-CN）</string>
+    <string name="save">保存</string>
+    <string name="saved">已保存</string>
+</resources>
